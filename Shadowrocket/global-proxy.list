@@ -33927,3 +33927,7 @@ IP-CIDR,104.251.176.0/22
 IP-CIDR,165.173.176.0/24
 DOMAIN,public.popclip.app
 DOMAIN-SUFFIX,51papaya.com
+DOMAIN,media.datacamp.com
+DOMAIN,static.karousell.com
+DOMAIN-SUFFIX,cygames.com
+DOMAIN-SUFFIX,remna.dev

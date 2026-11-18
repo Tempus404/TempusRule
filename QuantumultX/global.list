@@ -16123,6 +16123,14 @@ IP-CIDR,8.168.0.0/14,direct
 GEOIP,CN,direct
 HOST-SUFFIX,nia-teams.com,direct
 IP-CIDR,124.71.241.0/24,direct
+HOST-SUFFIX,arknights.com,direct
+HOST-SUFFIX,hgto.cc,direct
+HOST-SUFFIX,hycdn.com,direct
+HOST-SUFFIX,hypergryph.com,direct
+HOST-SUFFIX,hypergryph.net,direct
+HOST-SUFFIX,octavedge.com,direct
+HOST-SUFFIX,skland.com,direct
+HOST-SUFFIX,skland.net,direct
 HOST,api.okzy.tv,proxy
 HOST,api.together.xyz,proxy
 HOST,apple.comscoreresearch.com,proxy
@@ -50052,3 +50060,7 @@ IP-CIDR,104.251.176.0/22,proxy
 IP-CIDR,165.173.176.0/24,proxy
 HOST,public.popclip.app,proxy
 HOST-SUFFIX,51papaya.com,proxy
+HOST,media.datacamp.com,proxy
+HOST,static.karousell.com,proxy
+HOST-SUFFIX,cygames.com,proxy
+HOST-SUFFIX,remna.dev,proxy
