@@ -9,8 +9,9 @@
 - **Emby**（[emby.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/QuantumultX/emby.list)）
 - **推送**（[apple-push.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/QuantumultX/apple-push.list)）
 - **谷歌**（[google.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/QuantumultX/google.list)）
-- **广告终结者**（[adblock.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/QuantumultX/adblock.list)）
-- **全球分流**（[global.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/QuantumultX/global.list)）
+- **广告终结者**（[Advertising.list](https://raw.githubusercontent.com/Tempus404/ios-rule-split/main/QuantumultX/Advertising.list)）
+- **国内分流**（[China.list](https://raw.githubusercontent.com/Tempus404/ios-rule-split/main/QuantumultX/China.list)）
+- **全球分流**（[Global.list](https://raw.githubusercontent.com/Tempus404/ios-rule-split/main/QuantumultX/Global.list)）
 - **AI**（[ai.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/QuantumultX/ai.list)）
 - **红果去广告**（[hongguo.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/QuantumultX/hongguo.list)）
 - **Twitch**（[twitch.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/QuantumultX/twitch.list)）
