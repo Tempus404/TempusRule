@@ -14,7 +14,7 @@
 - **推送**（[apple-push.yaml](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Mihomo/apple-push.yaml)）
 - **苹果服务**（[apple.yaml](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Mihomo/apple.yaml)）
 - **谷歌**（[google.yaml](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Mihomo/google.yaml)）
-- **广告终结者**（[adblock.yaml](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Mihomo/adblock.yaml)）
+- **广告终结者**（[Advertising.yaml](https://raw.githubusercontent.com/Tempus404/ios-rule-split/main/Mihomo/Advertising.yaml)）
 - **广告直连**（[adblock-direct.yaml](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Mihomo/adblock-direct.yaml)）
 - **红果去广告**（[hongguo.yaml](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Mihomo/hongguo.yaml)）
 - **红果直连**（[hongguo-direct.yaml](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Mihomo/hongguo-direct.yaml)）
