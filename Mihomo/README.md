@@ -22,3 +22,4 @@
 - **全球分流走代理**（[global-proxy.yaml](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Mihomo/global-proxy.yaml)）
 - **AI**（[ai.yaml](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Mihomo/ai.yaml)）
 - **Twitch**（[twitch.yaml](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Mihomo/twitch.yaml)）
+- **贴吧**（[tieba.yaml](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Mihomo/tieba.yaml)）
