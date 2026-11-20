@@ -14,7 +14,7 @@
 - **推送**（[apple-push.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/apple-push.list)）
 - **苹果服务**（[apple.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/apple.list)）
 - **谷歌**（[google.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/google.list)）
-- **广告终结者**（[adblock.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/adblock.list)）
+- **广告终结者**（[Advertising.list](https://raw.githubusercontent.com/Tempus404/ios-rule-split/main/Shadowrocket/Advertising.list)）
 - **广告直连**（[adblock-direct.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/adblock-direct.list)）
 - **红果去广告**（[hongguo.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/hongguo.list)）
 - **红果直连**（[hongguo-direct.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/hongguo-direct.list)）
