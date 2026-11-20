@@ -23,3 +23,4 @@
 - **全球分流走代理**（[global-proxy.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/global-proxy.list)）
 - **AI**（[ai.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/ai.list)）
 - **Twitch**（[twitch.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/twitch.list)）
+- **贴吧**（[tieba.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/tieba.list)）
