@@ -19,8 +19,8 @@
 - **红果去广告**（[hongguo.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/hongguo.list)）
 - **红果直连**（[hongguo-direct.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/hongguo-direct.list)）
 - **红果去广告配置**（[HongGuo.conf](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/HongGuo.conf)）
-- **全球分流直连**（[global-direct.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/global-direct.list)）
-- **全球分流走代理**（[global-proxy.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/global-proxy.list)）
+- **国内分流**（[China.list](https://raw.githubusercontent.com/Tempus404/TempusRule/main/Shadowrocket/China.list)）
+- **全球分流**（[Global.list](https://raw.githubusercontent.com/Tempus404/TempusRule/main/Shadowrocket/Global.list)）
 - **AI**（[ai.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/ai.list)）
 - **Twitch**（[twitch.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/twitch.list)）
 - **贴吧**（[tieba.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/tieba.list)）
