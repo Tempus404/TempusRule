@@ -18,8 +18,8 @@
 - **广告直连**（[adblock-direct.yaml](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Mihomo/adblock-direct.yaml)）
 - **红果去广告**（[hongguo.yaml](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Mihomo/hongguo.yaml)）
 - **红果直连**（[hongguo-direct.yaml](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Mihomo/hongguo-direct.yaml)）
-- **全球分流直连**（[global-direct.yaml](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Mihomo/global-direct.yaml)）
-- **全球分流走代理**（[global-proxy.yaml](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Mihomo/global-proxy.yaml)）
+- **国内分流**（[China.yaml](https://raw.githubusercontent.com/Tempus404/TempusRule/main/Mihomo/China.yaml)）
+- **全球分流**（[Global.yaml](https://raw.githubusercontent.com/Tempus404/TempusRule/main/Mihomo/Global.yaml)）
 - **AI**（[ai.yaml](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Mihomo/ai.yaml)）
 - **Twitch**（[twitch.yaml](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Mihomo/twitch.yaml)）
 - **贴吧**（[tieba.yaml](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Mihomo/tieba.yaml)）
